@@ -34,7 +34,7 @@ int[] SortBy(int[] testArray)
         int maxValue = i;
         for (int j = i; j < testArray.Length; j++)
         {
-            if (testArray[maxValue] > testArray[j])
+            if (testArray[maxValue] < testArray[j])
             {
                 maxValue = j;
             }
