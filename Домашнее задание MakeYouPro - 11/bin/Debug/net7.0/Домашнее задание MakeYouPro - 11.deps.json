@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Домашнее задание MakeYouPro - 11/1.0.0": {
+        "runtime": {
+          "Домашнее задание MakeYouPro - 11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Домашнее задание MakeYouPro - 11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

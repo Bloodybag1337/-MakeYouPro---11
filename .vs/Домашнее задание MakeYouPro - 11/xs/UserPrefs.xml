@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8325D745-1A07-4F1D-A2D2-CDCCE58B404A}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Домашнее_220задание_220MakeYouPro_220-_22011 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Домашнее задание MakeYouPro - 11/Program.cs">
+    <Files>
+      <File FileName="Домашнее задание MakeYouPro - 11/Program.cs" Line="1" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Домашнее задание MakeYouPro - 11" expanded="True">
+            <Node name="Домашнее задание MakeYouPro - 11" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
